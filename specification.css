@@ -1,0 +1,18 @@
+.specification-image {
+  display: inline-block;
+  float: left;
+}
+
+.specification-logo {
+  border: 3px solid #EADEDB;
+  border-radius: 100%;
+  width: 70px;
+  height: 70px;
+  margin-top: 8px;
+}
+
+.specification-text {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.4em;
+  margin-left: 90px;
+}

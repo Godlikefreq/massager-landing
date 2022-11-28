@@ -1,0 +1,21 @@
+.button {
+  display: inline-block;
+  border-radius: 3px;
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  padding: 15px 30px;
+  text-shadow: 2px 1px 1px rgba(0, 0, 0, 0.15);
+  font-weight: bold;
+  margin-top: 50px;
+}
+
+.button-milk {
+  background: #F0EDE5;
+  color: #E94B3C;
+}
+
+.button-red {
+  background: #E94B3C;
+  color: #F0EDE5;
+}

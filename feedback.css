@@ -1,0 +1,27 @@
+.feedback {
+  background: #F0EDE5;
+}
+
+.feedback-image {
+	display: inline-block;
+	float: left;
+}
+
+.photo {
+	border: 3px solid #E94B3C;
+	border-radius: 100%;
+	width: 150px;
+	height: auto;
+
+}
+
+.feedback-details {
+	display: inline-block;
+	max-width: 300px;
+	margin-left: 20px;
+}
+
+.feedback-title {
+	font-family: 'Montserrat', sans-serif;
+  font-size: 1.5em;
+}

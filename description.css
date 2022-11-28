@@ -1,0 +1,24 @@
+.description {
+  margin-top: 40px;
+}
+
+.description-title {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2em;
+}
+
+.description-logo {
+  float: left;
+  width: 30px;
+  height: auto;
+  margin-top: 15px;
+}
+
+.description-item {
+  padding-left: 50px;
+}
+
+.description-item .text {
+  margin-top: 5px;
+  font-style: italic;
+}
