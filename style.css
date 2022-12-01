@@ -81,6 +81,7 @@
     width: auto;
     height: auto;
     float: none;
+    padding-left: 10px;
   }
 }
 
@@ -90,5 +91,6 @@
     width: auto;
     height: auto;
     float: none;
+    padding-left: 10px;
   }
 }
