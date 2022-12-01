@@ -1,21 +1,23 @@
 .form {
   padding-top: 30px;
+  background-image: linear-gradient(rgba(138, 186, 86, 0), rgba(138, 186, 86, 0.3) 95%);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll, fixed;
+  background-position: 0 0%, center top;
+  color: #fff
 }
 
 .form-title {
 	font-family: 'Montserrat', sans-serif;
   font-size: 1em;
 	text-align: center;
-	margin-bottom: 20px;
+	margin-bottom: 40px;
 }
 
 .form .title-large {
 	text-align: center;
-	margin-bottom: 10px;
-}
-
-.form .title-small {
-	margin: 0;
+	margin-bottom: 20px;
 }
 
 .form-items {
@@ -25,6 +27,14 @@
 	padding-left: 40px;
 }
 
-.form .button {
-	margin-top: -15px;
+.email {
+	color: #F0EDE5;
+}
+
+.form-items .text {
+	padding-bottom: 10px;
+}
+
+.form-button {
+	margin-top: -20px;
 }
